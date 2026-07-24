@@ -23,10 +23,10 @@ Main dataset: use/data_cleaned.dta - Cleaned dataset ready for all regressions
 REPOSITORY STRUCTURE
 --------------------
 
-code/               # Stata scripts (master_code.do, regressions)
+code/               # Stata scripts (master_code.do)
 Geospatial_files/   # GIS data (GeoPackage files, rasters, QGIS projects)
 figures/            # Output figures (.pdf, .png)
-tables/             # Output tables (.tex, .csv)
+tables/             # Output tables 
 use/                # Processed datasets (.dta)
 logfiles/           # Stata log files
 
